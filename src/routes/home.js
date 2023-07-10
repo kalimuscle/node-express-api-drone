@@ -1,6 +1,8 @@
-const { Router } = require('express');
+import { Router } from 'express';
+import {getDatabase}  from '../db.js';
+
 const router = Router();
- 
+
 //Raiz
 router.get('/', (req, res) => {    
     res.json(
@@ -8,6 +10,6 @@ router.get('/', (req, res) => {
             "Title": "Hola mundo usando rutas!"
         }
     );
-})
- 
-module.exports = router;
+});
+
+export default router;
