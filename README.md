@@ -33,6 +33,8 @@ The service include:
 
 Method: POST
  Body Request Example: 
+
+ ```javascript
     {
         "serial_number": "TOZCA-1CCR22",
         "model": "Middleweight",
@@ -40,11 +42,13 @@ Method: POST
         "battery_capacity": 0.25,
         "state": "LOADING"
     }
+```
 
  # REST API Function http://localhost:3000/load_medication_on_drone
 
 Method: PUT
  Body Request Example: 
+ ```javascript
     {
         "drone_code": "TOZCA-1CCR22",
         "medications": [
@@ -62,28 +66,35 @@ Method: PUT
             }
         ]
     }
+```
 
 # REST API Function http://localhost:3000/check_medication_on_drone
  
  Method: GET
 Body Request example : 
+```javascript
 {
   "drone_code": "TOZCA-1CCR22"
 }
+```
 
 # REST API Function http://localhost:3000/drones_for_loading
  
  Method: GET
 Body Request example : 
+```javascript
 {
 
 }
+```
 
 # REST API Function http://localhost:3000/drone_battery_capacity
  
  Method: GET
 Body Request example : 
+```javascript
 {
     "drone_code": "TOZCA-1CCR22"
 }
+```
     
