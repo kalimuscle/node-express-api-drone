@@ -214,14 +214,6 @@ loadMedicationOnDrone.put('/load_medication_on_drone', async (req, res) => {
     const index = drones.findIndex((item)=> item === drone);
 
     drone = updateChargeIfSameCodeMedication(drone, params['medications']);
-    // drone = {
-    //     ...drone,
-    //     state: 'LOADING',
-    //     medications: [
-    //         ...drone.medications, 
-    //         ...params['medications']
-    //     ]
-    // }
 
     drones[index] = drone;
 
@@ -229,7 +221,8 @@ loadMedicationOnDrone.put('/load_medication_on_drone', async (req, res) => {
     await db.write()
     res.json(
         {
-            "Title": "Load medication drone!"
+            "code": "Success!",
+            "value": drone
         }
     );
 });
