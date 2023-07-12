@@ -18,9 +18,14 @@ droneForLoading.get('/drones_for_loading', async (req, res) => {
     let {drones} = db.data;
 
     /*********************check dron exist ****************/
-    drones =  drones.filter((item) => item['battery_capacity'] > 0.25 && 
-                                        item['state'] == 'IDLE' && 
-                                        item['state'] == 'LOADING');
+    drones =  drones.filter((item) => (
+                                        item['battery_capacity'] > 0.25 && 
+                                        item['weight_limit'] > item['medications'].reduce((total, item) => total + item['weight'], 0) &&
+                                        (
+                                            item['state'] == 'IDLE' || 
+                                            item['state'] == 'LOADING'
+                                        ))
+                                    );
     
     res.status(200).json(
         {
