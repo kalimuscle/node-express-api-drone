@@ -32,9 +32,9 @@ The service include:
 
  # REST API Function registering drone in system
 
-Name:/registering_drone
-Method: POST
- Body Request Example: 
+ - Name:/registering_drone
+ - Method: POST
+ - Body Request Example: 
 
  ```javascript
     {
@@ -48,9 +48,9 @@ Method: POST
 
  # REST API Function adding medications on given drone
 
-Name: /load_medication_on_drone
-Method: PUT
- Body Request Example: 
+ - Name: /load_medication_on_drone
+ - Method: PUT
+ - Body Request Example: 
  ```javascript
     {
         "drone_code": "TOZCA-1CCR22",
@@ -73,9 +73,9 @@ Method: PUT
 
 # REST API Function checking medication on given drone
 
- Name: /check_medication_on_drone
- Method: GET
-Body Request example : 
+ - Name: /check_medication_on_drone
+ - Method: GET
+ - Body Request example : 
 ```javascript
 {
   "drone_code": "TOZCA-1CCR22"
@@ -84,9 +84,9 @@ Body Request example :
 
 # REST API Function for getting drones ready fro loading
 
- Name: /drones_for_loading
- Method: GET
-Body Request example : 
+ - Name: /drones_for_loading
+ - Method: GET
+ - Body Request example : 
 ```javascript
 {
 
@@ -95,9 +95,9 @@ Body Request example :
 
 # REST API Function for getting from given drone it battery capacity
 
- Name: /drone_battery_capacity
- Method: GET
-Body Request example : 
+ - Name: /drone_battery_capacity
+ - Method: GET
+ - Body Request example : 
 ```javascript
 {
     "drone_code": "TOZCA-1CCR22"
