@@ -15,14 +15,14 @@ The service include:
 
  The endpoint use port 3000
 
- # Deploy
+ ## Deploy
     - npm install
     - npm run dev
 
-# Unit testing
+## Unit testing
     -npm run test
 
-# Configuration for client REST API
+## Configuration for client REST API
 ```javascript
  Headers {
     "Content-type": "application/json",
@@ -30,7 +30,7 @@ The service include:
  }
  ```
 
- # REST API Function registering drone in system
+ ## REST API Function registering drone in system
 
  - Name:/registering_drone
  - Method: POST
@@ -46,7 +46,7 @@ The service include:
     }
 ```
 
- # REST API Function adding medications on given drone
+ ## REST API Function adding medications on given drone
 
  - Name: /load_medication_on_drone
  - Method: PUT
@@ -71,7 +71,7 @@ The service include:
     }
 ```
 
-# REST API Function checking medication on given drone
+## REST API Function checking medication on given drone
 
  - Name: /check_medication_on_drone
  - Method: GET
@@ -82,7 +82,7 @@ The service include:
 }
 ```
 
-# REST API Function for getting drones ready fro loading
+## REST API Function for getting drones ready fro loading
 
  - Name: /drones_for_loading
  - Method: GET
@@ -93,7 +93,7 @@ The service include:
 }
 ```
 
-# REST API Function for getting from given drone it battery capacity
+## REST API Function for getting from given drone it battery capacity
 
  - Name: /drone_battery_capacity
  - Method: GET
