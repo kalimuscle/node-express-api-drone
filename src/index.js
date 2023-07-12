@@ -4,6 +4,7 @@ import morgan from 'morgan';
 import routerRegisterDrone from './routes/registeringDrone.js';
 import loadMedicationOnDrone from './routes/loadMedicationOnDrone.js';
 import checkMedicationOnDrone from './routes/checkMedicationOnDrone.js';
+import droneForLoading from './routes/droneForLoading.js';
 
 import {createConnection}  from './db.js';
 
@@ -21,6 +22,7 @@ app.use(express.json());
 app.use(routerRegisterDrone);
 app.use(loadMedicationOnDrone);
 app.use(checkMedicationOnDrone);
+app.use(droneForLoading);
  
 //Iniciando el servidor
 app.listen(app.get('port'),()=>{
