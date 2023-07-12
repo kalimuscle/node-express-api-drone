@@ -1,0 +1,46 @@
+{
+  "drones": [
+    {
+      "serial_number": "MELKA-4H4",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.25,
+      "state": "LOADING",
+      "medications": []
+    },
+    {
+      "serial_number": "TOZCA-1CCR22",
+      "model": "Middleweight",
+      "weight_limit": 500,
+      "battery_capacity": 0.65,
+      "state": "LOADING",
+      "medications": [
+        {
+          "code": "DURKA",
+          "name": "Dipirona",
+          "weight": 50,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYCAYAAAC+ZpjcAADs5UlEQVR42uydecAdVXn/P08ii4hgLYpoEkBkUbZEBIQEXHADFcW1at3r0oLdflWrWCWB2NpWf7aCP7VSW2urxX2pG3VJAhgWTawoIpigotalalVABfL8/rgzc8/MnJk5M/e+b97l+2mR8Oa+986995wz3/Oc5/k+IIQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQg"
+        },
+        {
+          "code": "MERCA",
+          "name": "Ritalin",
+          "weight": 200,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYCAYAAAC+ZpjcAADs5UlEQVR42uydecAdVXn/P08ii4hgLYpoEkBkUbZEBIQEXHADFcW1at3r0oLdflWrWCWB2NpWf7aCP7VSW2urxX2pG3VJAhgWTawoIpigotalalVABfL8/rgzc8/MnJk5M/e+b97l+2mR8Oa+986995wz3/Oc5/k+IIQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQg"
+        },
+        {
+          "code": "DOMERHUE",
+          "name": "Alcohol-70-percent",
+          "weight": 200,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYCAYAAAC+ZpjcAADs5UlEQVR42uydecAdVXn/P08ii4hgLYpoEkBkUbZEBIQEXHADFcW1at3r0oLdflWrWCWB2NpWf7aCP7VSW2urxX2pG3VJAhgWTawoIpigotalalVABfL8/rgzc8/MnJk5M/e+b97l+2mR8Oa+986995wz3/Oc5/k+IIQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQg"
+        },
+        {
+          "code": "WQ_78",
+          "name": "Tylenol",
+          "weight": 50,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYCAYAAAC+ZpjcAADs5UlEQVR42uydecAdVXn/P08ii4hgLYpoEkBkUbZEBIQEXHADFcW1at3r0oLdflWrWCWB2NpWf7aCP7VSW2urxX2pG3VJAhgWTawoIpigotalalVABfL8/rgzc8/MnJk5M/e+b97l+2mR8Oa+986995wz3/Oc5/k+IIQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQg"
+        }
+      ]
+    }
+  ],
+  "medication": []
+}

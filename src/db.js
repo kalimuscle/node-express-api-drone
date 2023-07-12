@@ -1,26 +1,23 @@
 // Remember to set type: module in package.json or use .mjs extension
-import { join, dirname } from 'node:path'
-import { fileURLToPath } from 'node:url'
+import { join } from 'node:path'
 
 import { Low } from 'lowdb'
 import { JSONFile } from 'lowdb/node'
 
-const getDatabase = (radius) => {
-    // db.json file path
-    const __dirname = dirname(fileURLToPath(import.meta.url))
-    const file = join(__dirname, ' ../../db.json')
+let db;
 
-    console.log(__dirname);
+export const createConnection = async () => {
+    // db.json file path
+    const __dirname = process.cwd()
+    const file = join(__dirname, 'db.json')
 
     // Configure lowdb to write data to JSON file
     const adapter = new JSONFile(file)
     const defaultData = { drones: [], medication:[]}
-    const db = new Low(adapter, defaultData)
-
-    return db; 
+    db = new Low(adapter, defaultData)
 };
 
-export { getDatabase }
+export const getConnection = () => db;
 
 
 
