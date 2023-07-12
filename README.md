@@ -23,14 +23,16 @@ The service include:
     -npm run test
 
 # Configuration for client REST API
-
+```javascript
  Headers {
     "Content-type": "application/json",
     "Accept": "application/json"
  }
+ ```
 
- # REST API Function http://localhost:3000/registering_drone
+ # REST API Function registering drone in system
 
+Name:/registering_drone
 Method: POST
  Body Request Example: 
 
@@ -44,8 +46,9 @@ Method: POST
     }
 ```
 
- # REST API Function http://localhost:3000/load_medication_on_drone
+ # REST API Function adding medications on given drone
 
+Name: /load_medication_on_drone
 Method: PUT
  Body Request Example: 
  ```javascript
@@ -68,8 +71,9 @@ Method: PUT
     }
 ```
 
-# REST API Function http://localhost:3000/check_medication_on_drone
- 
+# REST API Function checking medication on given drone
+
+ Name: /check_medication_on_drone
  Method: GET
 Body Request example : 
 ```javascript
@@ -78,8 +82,9 @@ Body Request example :
 }
 ```
 
-# REST API Function http://localhost:3000/drones_for_loading
- 
+# REST API Function for getting drones ready fro loading
+
+ Name: /drones_for_loading
  Method: GET
 Body Request example : 
 ```javascript
@@ -88,8 +93,9 @@ Body Request example :
 }
 ```
 
-# REST API Function http://localhost:3000/drone_battery_capacity
- 
+# REST API Function for getting from given drone it battery capacity
+
+ Name: /drone_battery_capacity
  Method: GET
 Body Request example : 
 ```javascript
