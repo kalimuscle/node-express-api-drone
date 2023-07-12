@@ -3,6 +3,7 @@ const app = express();
 import morgan from 'morgan';
 import routerRegisterDrone from './routes/registeringDrone.js';
 import loadMedicationOnDrone from './routes/loadMedicationOnDrone.js';
+import checkMedicationOnDrone from './routes/checkMedicationOnDrone.js';
 
 import {createConnection}  from './db.js';
 
@@ -19,6 +20,7 @@ app.use(express.json());
 
 app.use(routerRegisterDrone);
 app.use(loadMedicationOnDrone);
+app.use(checkMedicationOnDrone);
  
 //Iniciando el servidor
 app.listen(app.get('port'),()=>{
