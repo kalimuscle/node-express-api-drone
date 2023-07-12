@@ -6,10 +6,16 @@ import loadMedicationOnDrone from './routes/loadMedicationOnDrone.js';
 import checkMedicationOnDrone from './routes/checkMedicationOnDrone.js';
 import droneForLoading from './routes/droneForLoading.js';
 import checkDroneBattery from './routes/checkDroneBattery.js';
+import { logDroneBatteryLevels  } from './logDronesbattery.js';
 
 import {createConnection}  from './db.js';
 
 createConnection();
+
+  
+  
+const intervalInMinutes = 0.1;
+setInterval(logDroneBatteryLevels, intervalInMinutes * 60 * 1000);
 
 //Configuraciones
 app.set('port', process.env.PORT || 3000);
