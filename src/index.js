@@ -5,6 +5,7 @@ import routerRegisterDrone from './routes/registeringDrone.js';
 import loadMedicationOnDrone from './routes/loadMedicationOnDrone.js';
 import checkMedicationOnDrone from './routes/checkMedicationOnDrone.js';
 import droneForLoading from './routes/droneForLoading.js';
+import checkDroneBattery from './routes/checkDroneBattery.js';
 
 import {createConnection}  from './db.js';
 
@@ -23,6 +24,7 @@ app.use(routerRegisterDrone);
 app.use(loadMedicationOnDrone);
 app.use(checkMedicationOnDrone);
 app.use(droneForLoading);
+app.use(checkDroneBattery);
  
 //Iniciando el servidor
 app.listen(app.get('port'),()=>{

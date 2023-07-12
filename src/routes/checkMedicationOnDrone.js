@@ -27,9 +27,6 @@ checkMedicationOnDrone.get('/check_medication_on_drone', async (req, res) => {
 
         errorList.push(error); 
     }
-    else{
-
-    }
 
     if(errorList.length > 0){
         res.status(500).json(
