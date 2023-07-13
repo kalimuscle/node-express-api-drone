@@ -168,7 +168,7 @@ routerRegisterDrone.post('/registering_drone', async (req, res) => {
     drones.push(params);
 
     await db.write();
-    res.status(200).json(
+    res.status(201).json(
         {
             "code": "Success!",
             "value": params
