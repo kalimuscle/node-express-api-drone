@@ -40,7 +40,506 @@
           "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYCAYAAAC+ZpjcAADs5UlEQVR42uydecAdVXn/P08ii4hgLYpoEkBkUbZEBIQEXHADFcW1at3r0oLdflWrWCWB2NpWf7aCP7VSW2urxX2pG3VJAhgWTawoIpigotalalVABfL8/rgzc8/MnJk5M/e+b97l+2mR8Oa+986995wz3/Oc5/k+IIQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQg"
         }
       ]
+    },
+    {
+      "serial_number": "TEST-001",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": []
+    },
+    {
+      "serial_number": "TEST-882539",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": []
+    },
+    {
+      "serial_number": "TEST-191135",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": []
+    },
+    {
+      "serial_number": "TEST-577930",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": []
+    },
+    {
+      "serial_number": "TEST-490682",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": []
+    },
+    {
+      "serial_number": "TEST-647437",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": []
+    },
+    {
+      "serial_number": "TEST-572112",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": []
+    },
+    {
+      "serial_number": "TEST-205370",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": []
+    },
+    {
+      "serial_number": "TEST-216878",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": []
+    },
+    {
+      "serial_number": "TEST-775594",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": []
+    },
+    {
+      "serial_number": "TEST-522411",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": []
+    },
+    {
+      "serial_number": "TEST-820565",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": []
+    },
+    {
+      "serial_number": "TEST-467016",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": [
+        {
+          "code": "MERCA",
+          "name": "Ritalin",
+          "weight": 100,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYCAYAAAC+ZpjcAADs5UlEQVR42uydecAdVXn/P08ii4hgLYpoEkBkUbZEBIQEXHADFcW1at3r0oLdflWrWCWB2NpWf7aCP7VSW2urxX2pG3VJAhgWTawoIpigotalalVABfL8/rgzc8/MnJk5M/e+b97l+2mR8Oa+986995wz3/Oc5/k+IIQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQg"
+        }
+      ]
+    },
+    {
+      "serial_number": "TEST-469697",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": []
+    },
+    {
+      "serial_number": "TEST-21",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": [
+        {
+          "code": "MEDICATION",
+          "name": "Ritalin",
+          "weight": 10,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYCAYAAAC+ZpjcAADs5UlEQVR42uydecAdVXn/P08ii4hgLYpoEkBkUbZEBIQEXHADFcW1at3r0oLdflWrWCWB2NpWf7aCP7VSW2urxX2pG3VJAhgWTawoIpigotalalVABfL8/rgzc8/MnJk5M/e+b97l+2mR8Oa+986995wz3/Oc5/k+IIQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQg"
+        }
+      ]
+    },
+    {
+      "serial_number": "TEST-587970",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": [
+        {
+          "code": "MEDICATION",
+          "name": "Ritalin",
+          "weight": 70,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYCAYAAAC+ZpjcAADs5UlEQVR42uydecAdVXn/P08ii4hgLYpoEkBkUbZEBIQEXHADFcW1at3r0oLdflWrWCWB2NpWf7aCP7VSW2urxX2pG3VJAhgWTawoIpigotalalVABfL8/rgzc8/MnJk5M/e+b97l+2mR8Oa+986995wz3/Oc5/k+IIQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQg"
+        }
+      ]
+    },
+    {
+      "serial_number": "TEST-547445",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": [
+        {
+          "code": "MEDICATION",
+          "name": "Ritalin",
+          "weight": 80,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYCAYAAAC+ZpjcAADs5UlEQVR42uydecAdVXn/P08ii4hgLYpoEkBkUbZEBIQEXHADFcW1at3r0oLdflWrWCWB2NpWf7aCP7VSW2urxX2pG3VJAhgWTawoIpigotalalVABfL8/rgzc8/MnJk5M/e+b97l+2mR8Oa+986995wz3/Oc5/k+IIQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQg"
+        }
+      ]
+    },
+    {
+      "serial_number": "TEST-660120",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": [
+        {
+          "code": "MEDICATION",
+          "name": "Ritalin",
+          "weight": 10,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYCAYAAAC+ZpjcAADs5UlEQVR42uydecAdVXn/P08ii4hgLYpoEkBkUbZEBIQEXHADFcW1at3r0oLdflWrWCWB2NpWf7aCP7VSW2urxX2pG3VJAhgWTawoIpigotalalVABfL8/rgzc8/MnJk5M/e+b97l+2mR8Oa+986995wz3/Oc5/k+IIQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQg"
+        },
+        {
+          "code": "MERCA",
+          "name": "Ritalin",
+          "weight": 60,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYCAYAAAC+ZpjcAADs5UlEQVR42uydecAdVXn/P08ii4hgLYpoEkBkUbZEBIQEXHADFcW1at3r0oLdflWrWCWB2NpWf7aCP7VSW2urxX2pG3VJAhgWTawoIpigotalalVABfL8/rgzc8/MnJk5M/e+b97l+2mR8Oa+986995wz3/Oc5/k+IIQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQg"
+        }
+      ]
+    },
+    {
+      "serial_number": "TEST-309862",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": [
+        {
+          "code": "MEDICATION",
+          "name": "Ritalin",
+          "weight": 10,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYCAYAAAC+ZpjcAADs5UlEQVR42uydecAdVXn/P08ii4hgLYpoEkBkUbZEBIQEXHADFcW1at3r0oLdflWrWCWB2NpWf7aCP7VSW2urxX2pG3VJAhgWTawoIpigotalalVABfL8/rgzc8/MnJk5M/e+b97l+2mR8Oa+986995wz3/Oc5/k+IIQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQg"
+        }
+      ]
+    },
+    {
+      "serial_number": "TEST-256011",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": [
+        {
+          "code": "MEDICATION",
+          "name": "Ritalin",
+          "weight": 10,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYCAYAAAC+ZpjcAADs5UlEQVR42uydecAdVXn/P08ii4hgLYpoEkBkUbZEBIQEXHADFcW1at3r0oLdflWrWCWB2NpWf7aCP7VSW2urxX2pG3VJAhgWTawoIpigotalalVABfL8/rgzc8/MnJk5M/e+b97l+2mR8Oa+986995wz3/Oc5/k+IIQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQg"
+        }
+      ]
+    },
+    {
+      "serial_number": "TEST-154412",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": [
+        {
+          "code": "MEDICATION",
+          "name": "Ritalin",
+          "weight": 10,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYCAYAAAC+ZpjcAADs5UlEQVR42uydecAdVXn/P08ii4hgLYpoEkBkUbZEBIQEXHADFcW1at3r0oLdflWrWCWB2NpWf7aCP7VSW2urxX2pG3VJAhgWTawoIpigotalalVABfL8/rgzc8/MnJk5M/e+b97l+2mR8Oa+986995wz3/Oc5/k+IIQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQg"
+        }
+      ]
+    },
+    {
+      "serial_number": "TEST-164330",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": [
+        {
+          "code": "MEDICATION",
+          "name": "Ritalin",
+          "weight": 10,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYCAYAAAC+ZpjcAADs5UlEQVR42uydecAdVXn/P08ii4hgLYpoEkBkUbZEBIQEXHADFcW1at3r0oLdflWrWCWB2NpWf7aCP7VSW2urxX2pG3VJAhgWTawoIpigotalalVABfL8/rgzc8/MnJk5M/e+b97l+2mR8Oa+986995wz3/Oc5/k+IIQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQg"
+        }
+      ]
+    },
+    {
+      "serial_number": "TEST-998263",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": [
+        {
+          "code": "MEDICATION",
+          "name": "Ritalin",
+          "weight": 10,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYCAYAAAC+ZpjcAADs5UlEQVR42uydecAdVXn/P08ii4hgLYpoEkBkUbZEBIQEXHADFcW1at3r0oLdflWrWCWB2NpWf7aCP7VSW2urxX2pG3VJAhgWTawoIpigotalalVABfL8/rgzc8/MnJk5M/e+b97l+2mR8Oa+986995wz3/Oc5/k+IIQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQg"
+        }
+      ]
+    },
+    {
+      "serial_number": "TEST-556031",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": [
+        {
+          "code": "MEDICATION",
+          "name": "Ritalin",
+          "weight": 10,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYCAYAAAC+ZpjcAADs5UlEQVR42uydecAdVXn/P08ii4hgLYpoEkBkUbZEBIQEXHADFcW1at3r0oLdflWrWCWB2NpWf7aCP7VSW2urxX2pG3VJAhgWTawoIpigotalalVABfL8/rgzc8/MnJk5M/e+b97l+2mR8Oa+986995wz3/Oc5/k+IIQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQg"
+        }
+      ]
+    },
+    {
+      "serial_number": "TEST-900668",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": [
+        {
+          "code": "MEDICATION",
+          "name": "Ritalin",
+          "weight": 10,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYCAYAAAC+ZpjcAADs5UlEQVR42uydecAdVXn/P08ii4hgLYpoEkBkUbZEBIQEXHADFcW1at3r0oLdflWrWCWB2NpWf7aCP7VSW2urxX2pG3VJAhgWTawoIpigotalalVABfL8/rgzc8/MnJk5M/e+b97l+2mR8Oa+986995wz3/Oc5/k+IIQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQg"
+        }
+      ]
+    },
+    {
+      "serial_number": "TEST-481272",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": [
+        {
+          "code": "MEDICATION",
+          "name": "Ritalin",
+          "weight": 10,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYCAYAAAC+ZpjcAADs5UlEQVR42uydecAdVXn/P08ii4hgLYpoEkBkUbZEBIQEXHADFcW1at3r0oLdflWrWCWB2NpWf7aCP7VSW2urxX2pG3VJAhgWTawoIpigotalalVABfL8/rgzc8/MnJk5M/e+b97l+2mR8Oa+986995wz3/Oc5/k+IIQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQg"
+        }
+      ]
+    },
+    {
+      "serial_number": "TEST-611844",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": [
+        {
+          "code": "MEDICATION",
+          "name": "Ritalin",
+          "weight": 70,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYCAYAAAC+ZpjcAADs5UlEQVR42uydecAdVXn/P08ii4hgLYpoEkBkUbZEBIQEXHADFcW1at3r0oLdflWrWCWB2NpWf7aCP7VSW2urxX2pG3VJAhgWTawoIpigotalalVABfL8/rgzc8/MnJk5M/e+b97l+2mR8Oa+986995wz3/Oc5/k+IIQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQg"
+        }
+      ]
+    },
+    {
+      "serial_number": "TEST-119549",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": [
+        {
+          "code": "MEDICATION",
+          "name": "Ritalin",
+          "weight": 70,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYCAYAAAC+ZpjcAADs5UlEQVR42uydecAdVXn/P08ii4hgLYpoEkBkUbZEBIQEXHADFcW1at3r0oLdflWrWCWB2NpWf7aCP7VSW2urxX2pG3VJAhgWTawoIpigotalalVABfL8/rgzc8/MnJk5M/e+b97l+2mR8Oa+986995wz3/Oc5/k+IIQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQg"
+        }
+      ]
+    },
+    {
+      "serial_number": "TEST-124908",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": [
+        {
+          "code": "MEDICATION",
+          "name": "Ritalin",
+          "weight": 70,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYCAYAAAC+ZpjcAADs5UlEQVR42uydecAdVXn/P08ii4hgLYpoEkBkUbZEBIQEXHADFcW1at3r0oLdflWrWCWB2NpWf7aCP7VSW2urxX2pG3VJAhgWTawoIpigotalalVABfL8/rgzc8/MnJk5M/e+b97l+2mR8Oa+986995wz3/Oc5/k+IIQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQg"
+        }
+      ]
+    },
+    {
+      "serial_number": "TEST-683255",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": [
+        {
+          "code": "MEDICATION",
+          "name": "Ritalin",
+          "weight": 70,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYCAYAAAC+ZpjcAADs5UlEQVR42uydecAdVXn/P08ii4hgLYpoEkBkUbZEBIQEXHADFcW1at3r0oLdflWrWCWB2NpWf7aCP7VSW2urxX2pG3VJAhgWTawoIpigotalalVABfL8/rgzc8/MnJk5M/e+b97l+2mR8Oa+986995wz3/Oc5/k+IIQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQg"
+        }
+      ]
+    },
+    {
+      "serial_number": "TEST-383256",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": [
+        {
+          "code": "MEDICATION",
+          "name": "Ritalin",
+          "weight": 70,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYCAYAAAC+ZpjcAADs5UlEQVR42uydecAdVXn/P08ii4hgLYpoEkBkUbZEBIQEXHADFcW1at3r0oLdflWrWCWB2NpWf7aCP7VSW2urxX2pG3VJAhgWTawoIpigotalalVABfL8/rgzc8/MnJk5M/e+b97l+2mR8Oa+986995wz3/Oc5/k+IIQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQg"
+        }
+      ]
+    },
+    {
+      "serial_number": "TEST-7545",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": [
+        {
+          "code": "MEDICATION",
+          "name": "Ritalin",
+          "weight": 70,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYCAYAAAC+ZpjcAADs5UlEQVR42uydecAdVXn/P08ii4hgLYpoEkBkUbZEBIQEXHADFcW1at3r0oLdflWrWCWB2NpWf7aCP7VSW2urxX2pG3VJAhgWTawoIpigotalalVABfL8/rgzc8/MnJk5M/e+b97l+2mR8Oa+986995wz3/Oc5/k+IIQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQg"
+        }
+      ]
+    },
+    {
+      "serial_number": "TEST-797940",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": [
+        {
+          "code": "MEDICATION",
+          "name": "Ritalin",
+          "weight": 70,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYCAYAAAC+ZpjcAADs5UlEQVR42uydecAdVXn/P08ii4hgLYpoEkBkUbZEBIQEXHADFcW1at3r0oLdflWrWCWB2NpWf7aCP7VSW2urxX2pG3VJAhgWTawoIpigotalalVABfL8/rgzc8/MnJk5M/e+b97l+2mR8Oa+986995wz3/Oc5/k+IIQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQg"
+        }
+      ]
+    },
+    {
+      "serial_number": "TEST-611630",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": [
+        {
+          "code": "MEDICATION",
+          "name": "Ritalin",
+          "weight": 70,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYCAYAAAC+ZpjcAADs5UlEQVR42uydecAdVXn/P08ii4hgLYpoEkBkUbZEBIQEXHADFcW1at3r0oLdflWrWCWB2NpWf7aCP7VSW2urxX2pG3VJAhgWTawoIpigotalalVABfL8/rgzc8/MnJk5M/e+b97l+2mR8Oa+986995wz3/Oc5/k+IIQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQg"
+        }
+      ]
+    },
+    {
+      "serial_number": "TEST-447858",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": [
+        {
+          "code": "MEDICATION",
+          "name": "Ritalin",
+          "weight": 70,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYCAYAAAC+ZpjcAADs5UlEQVR42uydecAdVXn/P08ii4hgLYpoEkBkUbZEBIQEXHADFcW1at3r0oLdflWrWCWB2NpWf7aCP7VSW2urxX2pG3VJAhgWTawoIpigotalalVABfL8/rgzc8/MnJk5M/e+b97l+2mR8Oa+986995wz3/Oc5/k+IIQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQg"
+        }
+      ]
+    },
+    {
+      "serial_number": "TEST-59453",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": [
+        {
+          "code": "MEDICATION",
+          "name": "Ritalin",
+          "weight": 70,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYCAYAAAC+ZpjcAADs5UlEQVR42uydecAdVXn/P08ii4hgLYpoEkBkUbZEBIQEXHADFcW1at3r0oLdflWrWCWB2NpWf7aCP7VSW2urxX2pG3VJAhgWTawoIpigotalalVABfL8/rgzc8/MnJk5M/e+b97l+2mR8Oa+986995wz3/Oc5/k+IIQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQg"
+        }
+      ]
+    },
+    {
+      "serial_number": "TEST-18943",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": [
+        {
+          "code": "MEDICATION",
+          "name": "Ritalin",
+          "weight": 70,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYCAYAAAC+ZpjcAADs5UlEQVR42uydecAdVXn/P08ii4hgLYpoEkBkUbZEBIQEXHADFcW1at3r0oLdflWrWCWB2NpWf7aCP7VSW2urxX2pG3VJAhgWTawoIpigotalalVABfL8/rgzc8/MnJk5M/e+b97l+2mR8Oa+986995wz3/Oc5/k+IIQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQg"
+        }
+      ]
+    },
+    {
+      "serial_number": "TEST-203280",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": [
+        {
+          "code": "MEDICATION",
+          "name": "Ritalin",
+          "weight": 70,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYCAYAAAC+ZpjcAADs5UlEQVR42uydecAdVXn/P08ii4hgLYpoEkBkUbZEBIQEXHADFcW1at3r0oLdflWrWCWB2NpWf7aCP7VSW2urxX2pG3VJAhgWTawoIpigotalalVABfL8/rgzc8/MnJk5M/e+b97l+2mR8Oa+986995wz3/Oc5/k+IIQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQg"
+        }
+      ]
+    },
+    {
+      "serial_number": "TEST-351381",
+      "model": "Middleweight",
+      "weight_limit": 100,
+      "battery_capacity": 0.75,
+      "state": "LOADING",
+      "medications": [
+        {
+          "code": "MEDICATION",
+          "name": "Ritalin",
+          "weight": 70,
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYCAYAAAC+ZpjcAADs5UlEQVR42uydecAdVXn/P08ii4hgLYpoEkBkUbZEBIQEXHADFcW1at3r0oLdflWrWCWB2NpWf7aCP7VSW2urxX2pG3VJAhgWTawoIpigotalalVABfL8/rgzc8/MnJk5M/e+b97l+2mR8Oa+986995wz3/Oc5/k+IIQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQg"
+        }
+      ]
     }
-  ],
-  "medication": []
+  ]
 }

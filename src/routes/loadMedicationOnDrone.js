@@ -29,11 +29,15 @@ const isValidmedicationsWeigth = (drone, param) => {
 }
 
 const updateChargeIfSameCodeMedication = (drone, param) => {
-    if(drone.medications.length == 0){
-        return drone;
-    }
     const medications = param;
-
+    if(drone.medications.length == 0){
+       return drone = {
+            ...drone,
+            state: 'LOADING',
+            medications
+        }
+    }
+    
     for(let i = 0; i < medications.length; i++){
         const medication = medications[i];
         const index =  drone.medications.findIndex((item) => item['code'] == medication['code']);
@@ -212,6 +216,8 @@ loadMedicationOnDrone.put('/load_medication_on_drone', async (req, res) => {
         return;
     }
     const index = drones.findIndex((item)=> item === drone);
+
+    console.log(params['medications'])
 
     drone = updateChargeIfSameCodeMedication(drone, params['medications']);
 
